@@ -1,0 +1,11 @@
+# Arquivos de ambiente e segredos
+*.env
+*.secret
+# Cache do Python
+__pycache__/
+*.pyc
+# Logs
+*.log
+# Dependências (exemplos comuns)
+node_modules/
+venv/
