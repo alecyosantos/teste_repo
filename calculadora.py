@@ -17,3 +17,8 @@ def potencia(base, expoente):
 
 def raiz_quadrada(n):
     return n ** 0.5
+
+def valor_absoluto(n):
+    if n < 0:
+        return -n
+    return n
