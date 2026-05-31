@@ -1,1 +1,2 @@
-Bem vindo ao meu TESTE de criação de repositório local.
+# Meu Primeiro Repositório
+Repositório de exercício do curso de Boas Práticas.
