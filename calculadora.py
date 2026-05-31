@@ -14,3 +14,6 @@ def divide(a, b):
 
 def potencia(base, expoente):
     return base ** expoente
+
+def raiz_quadrada(n):
+    return n ** 0.5
